@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oryptimi.github.io/sitemap.html.gz
+Sitemap: https://oryptimi.github.io/app/sitemap.html.gz
+Sitemap: https://oryptimi.github.io/assets/sitemap.html.gz
+Sitemap: https://oryptimi.github.io/css/sitemap.html.gz
+Sitemap: https://oryptimi.github.io/includes/sitemap.html.gz
+Sitemap: https://oryptimi.github.io/item/sitemap.html.gz
+Sitemap: https://oryptimi.github.io/src/sitemap.html.gz
